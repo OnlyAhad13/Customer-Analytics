@@ -36,5 +36,5 @@ This project focuses on customer behavior analysis to drive better decision-maki
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OnlyAhad13/customer-analytics-project.git
-   cd customer-analytics-project
+   git clone https://github.com/OnlyAhad13/Customer-Analytics.git
+   cd Customer-Analytics
